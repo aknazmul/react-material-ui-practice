@@ -134,7 +134,7 @@ class Dashboardlayout extends Component {
                   <MenuIcon />
                 </IconButton>
                 <Typography variant="h6" color="inherit" noWrap>
-                  React Practice
+                  ITB Material UI
                 </Typography>
                 <div className={classes.grow} />
                 <div>
